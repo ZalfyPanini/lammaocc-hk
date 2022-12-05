@@ -20,12 +20,12 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: e
+    image: /img/locc_logo.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: e
+    image: /img/locc_logo.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: e
+    image: /img/locc_logo.png
 ---

@@ -9,9 +9,7 @@ mainpitch:
   description: "Hello "
 description: Lorem ipsum
 intro:
-  blurbs:
-    - text: eyy
-      image: /img/locc_race_round_lamma_hero.jpeg
+  blurbs: []
   heading: EEEEE
   description: eeeeeueaeouaoeuaoeuaoe
 main:
@@ -23,11 +21,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: e
-    image: /img/locc_logo.png
+    image: https://i.picsum.photos/id/338/200/300.jpg?hmac=rE5P3WDLKY1VMpd9y_FLo_OKhTzG4_3zCbGjKvgOL5w
   image2:
     alt: e
-    image: /img/locc_logo.png
+    image: https://i.picsum.photos/id/338/200/300.jpg?hmac=rE5P3WDLKY1VMpd9y_FLo_OKhTzG4_3zCbGjKvgOL5w
   image3:
     alt: e
-    image: /img/locc_logo.png
+    image: https://i.picsum.photos/id/338/200/300.jpg?hmac=rE5P3WDLKY1VMpd9y_FLo_OKhTzG4_3zCbGjKvgOL5w
 ---

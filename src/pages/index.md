@@ -6,10 +6,12 @@ heading: "Learn about outrigger techniques and come paddle with us! "
 subheading: Paddling in Lamma since 2006!
 mainpitch:
   title: We paddle all year long
-  description: ". "
+  description: "Hello "
 description: Lorem ipsum
 intro:
-  blurbs: []
+  blurbs:
+    - text: eyy
+      image: /img/locc_race_round_lamma_hero.jpeg
   heading: EEEEE
   description: eeeeeueaeouaoeuaoeuaoe
 main:

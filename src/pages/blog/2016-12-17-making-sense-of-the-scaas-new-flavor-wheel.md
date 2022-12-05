@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 2021 Round Lamma Race
 date: 2021-09-13T03:04:10.000Z
 description: "The Round Lamma Race is back ! "
-featuredpost: false
+featuredpost: true
 featuredimage: /img/locc_race_round_lamma_hero.jpeg
 tags:
   - rlr
@@ -11,7 +11,6 @@ tags:
 ---
 # A longstanding race in Lamma Island! 
 
-T﻿he Round Lamma Race is back !
 
 In 2021, despite all the covid restrictions, the LOCC still managed to organise a race!
 

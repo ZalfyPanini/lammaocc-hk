@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Join us on the sea!
-image: /img/locc-hero-cropped.jpg
+image: https://i.picsum.photos/id/338/200/300.jpg?hmac=rE5P3WDLKY1VMpd9y_FLo_OKhTzG4_3zCbGjKvgOL5w
 heading: "Learn about outrigger techniques and come paddle with us! "
 subheading: Paddling in Lamma since 2006!
 mainpitch:
@@ -9,7 +9,9 @@ mainpitch:
   description: "Hello "
 description: Lorem ipsum
 intro:
-  blurbs: []
+  blurbs:
+    - image: https://i.picsum.photos/id/338/200/300.jpg?hmac=rE5P3WDLKY1VMpd9y_FLo_OKhTzG4_3zCbGjKvgOL5w
+      text: e
   heading: EEEEE
   description: eeeeeueaeouaoeuaoeuaoe
 main:
